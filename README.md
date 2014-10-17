@@ -1,7 +1,7 @@
 muphoria
 ========
 
-Entry for [muphoria contest by muSigma](muphoria.mu-sigma.com/muphoria2014/problem-statement/)
+Entry for [muphoria contest by muSigma](http://www.muphoria.mu-sigma.com/muphoria2014/problem-statement/)
 
 
 Instructions for setting up
